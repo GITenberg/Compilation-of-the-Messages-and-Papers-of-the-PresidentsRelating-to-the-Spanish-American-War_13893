@@ -1,0 +1,45 @@
+_repo: Compilation-of-the-Messages-and-Papers-of-the-PresidentsRelating-to-the-Spanish-American-War_13893
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McKinley, William
+    alias: United States President (1897-1901)
+    birthdate: &id001 1843
+    deathdate: 1901
+    gutenberg_agent_id: '1656'
+    url: http://www.gutenberg.org/2009/agents/1656
+    wikipedia: http://en.wikipedia.org/wiki/William_McKinley
+  editor:
+    agent_name: Richardson, James D. (James Daniel)
+    alias: Richardson, James Daniel
+    birthdate: *id001
+    deathdate: 1914
+    gutenberg_agent_id: '3697'
+    url: http://www.gutenberg.org/2009/agents/3697
+description: ''
+gutenberg_bookshelf: Spanish American War
+gutenberg_issued: '2004-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States'
+- !lcsh 'Spanish-American War, 1898'
+- !lcsh 'United States -- Politics and government'
+- !lcc 'E660'
+- !lcsh 'McKinley, William, 1843-1901'
+- !lcsh 'United States -- History -- Sources'
+- !lcc 'J'
+title: 'Compilation of the Messages and Papers of the Presidents
+
+  William McKinley, Messages, Proclamations, and Executive Orders
+
+  Relating to the Spanish-American War'
+url: http://www.gutenberg.org/ebooks/13893
