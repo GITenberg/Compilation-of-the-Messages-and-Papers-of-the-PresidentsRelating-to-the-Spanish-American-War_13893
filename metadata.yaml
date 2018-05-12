@@ -7,7 +7,7 @@ creator:
   author:
     agent_name: McKinley, William
     alias: United States President (1897-1901)
-    birthdate: &id001 1843
+    birthdate: 1843
     deathdate: 1901
     gutenberg_agent_id: '1656'
     url: http://www.gutenberg.org/2009/agents/1656
@@ -15,11 +15,13 @@ creator:
   editor:
     agent_name: Richardson, James D. (James Daniel)
     alias: Richardson, James Daniel
-    birthdate: *id001
+    birthdate: 1843
     deathdate: 1914
     gutenberg_agent_id: '3697'
     url: http://www.gutenberg.org/2009/agents/3697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13893#Compilation-of-the-Messages-and-Papers-of-the-PresidentsRelating-to-the-Spanish-American-War
 gutenberg_bookshelf: Spanish American War
 gutenberg_issued: '2004-10-29'
 gutenberg_type: Text
